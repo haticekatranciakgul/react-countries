@@ -1,0 +1,20 @@
+.selectBox {
+    width: 30%;
+    padding: 9px 5px;
+    outline: none;
+    box-shadow: 5px;
+    color: rgb(156 163 175/var(--tw-text-opacity));
+    background-color: #1f2a40;
+    border-color: #1f2a40;
+    float: right;
+
+}
+.searchInput {
+    width: 60%;
+    padding: 4px 15px;
+    outline: none;
+    box-shadow: 5px;
+    color: rgb(156 163 175/var(--tw-text-opacity));
+    background-color: #1f2a40;
+    border-color: #1f2a40;
+}
